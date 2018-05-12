@@ -9,7 +9,8 @@ Você apenas precisa baixar o script que você quer e tornaro script executável
 `$ chmod a+x <nome_do_script>.sh`
 
 E depois executar:
-`./<nome_do_script>`
+
+`$ ./<nome_do_script>`
 
 # Como contribuir
 
