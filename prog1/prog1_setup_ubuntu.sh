@@ -12,3 +12,6 @@ tst update
 sudo add-apt-repository ppa:geany-dev/ppa
 sudo apt-get update
 sudo apt-get install geany
+
+#Pygame 
+sudo apt-get install python-pygame
