@@ -2,7 +2,7 @@
 
 ## O que vai instalar
 
-* Tst - Ferramenta usada na disciplina
+* TST - Ferramenta usada na disciplina
 * Geany - Editor de texto simples para programar
 * Pygame - Biblioteca usada para construir jogos pro projeto final da disciplina
 
