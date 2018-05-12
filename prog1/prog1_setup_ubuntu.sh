@@ -1,6 +1,5 @@
 #!/bin/bash
 # Ambiente de desenvolvimento para disciplina de Programacao 1 do primeiro periodo de computacao da UFCG
-# Autor: @thayannevls
 
 sudo apt-get update
 
