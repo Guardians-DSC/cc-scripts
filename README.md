@@ -12,8 +12,12 @@ E depois executar:
 
 `$ ./<nome_do_script>`
 
+# Disciplinas
+
+* [Programação I e Laboratório de Progamação I](https://github.com/thayannevls/cc-scripts/tree/master/prog1)
+
 # Como contribuir
 
-Pra ajudar o projeto a crescer, você pode criar novos scripts de disciplinas que ainda não existem ainda no repositório, ou atualizar scripts que estejam faltando alguma coisa ou aprensentam bugs. Faz um fork do projeto e manda uma pull request pra gente :D
+Pra ajudar o projeto a crescer, você pode criar novos scripts de disciplinas que ainda não existem ainda no repositório, ou atualizar scripts que estejam faltando alguma coisa ou aprensentam bugs. Faz um fork do projeto e manda uma pull request pra gente :D (Obs: Sigam os modelos do repositório)
 
 Se você não sabe fazer scripts, você pode criar uma issue e descrever o que poderia ser feito pra gente. Toda ajuda é bem vinda.
