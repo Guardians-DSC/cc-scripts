@@ -1,4 +1,4 @@
-# Programação I e Laboratória de Programação I
+# Programação I e Laboratório de Programação I
 
 ## O que vai instalar
 
