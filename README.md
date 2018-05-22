@@ -15,6 +15,7 @@ E depois executar:
 # Disciplinas
 
 * [Programação I e Laboratório de Progamação I](https://github.com/thayannevls/cc-scripts/tree/master/prog1)
+* [Programação II e Laboratório de Progamação II](https://github.com/thayannevls/cc-scripts/tree/master/prog2)
 
 # Como contribuir
 

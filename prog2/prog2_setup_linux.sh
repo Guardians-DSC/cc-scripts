@@ -4,13 +4,13 @@
 sudo apt-get purge openjdk*
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get update 
-sudo apt-get install oracle-java9-installer
+sudo apt-get install oracle-java8-installer
 
 #Eclipse
 rm -Rf /opt/eclipse/
 rm -Rf /usr/share/applications/eclipse.desktop
 
-if [ $(uname -m) = "" ];
+if [[ $(uname -m) =~ "64" ]];
    then
       wget -c http://eclipse.c3sl.ufpr.br/technology/epp/downloads/release/oxygen/2/eclipse-jee-oxygen-2-linux-gtk-x86_64.tar.gz -O eclipse.tar.gz
       else
