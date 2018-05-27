@@ -7,6 +7,9 @@ sudo apt-get update
 bash -c "$(curl -q -sSL http://bit.ly/tst-install)"
 tst update
 
+#python-yaml
+sudo apt-get install python-yaml
+
 #Geany
 sudo add-apt-repository ppa:geany-dev/ppa
 sudo apt-get update
