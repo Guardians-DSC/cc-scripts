@@ -5,6 +5,7 @@
 * TST - Ferramenta usada na disciplina
 * Geany - Editor de texto simples para programar
 * Pygame - Biblioteca usada para construir jogos pro projeto final da disciplina
+* Python-yaml - Módulo usado para serialização de dados para Python.
 
 
 ## Informações Adicionais
